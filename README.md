@@ -11,3 +11,7 @@ o primeiro algoritmo que sempre fazemos ao iniciar.
 ## MÉDIA
 Para o cálculo da média, é necessário realizar a soma de todos os números e depois dividir pela quantidade de números existentes.
 Desta forma, obtemos o resultado da média.
+
+## Teste v.46383
+Aqui vamos adicionar um texto, com a intenção de realizar um conflito entre os arquivos do github.
+Eu alterei o mesmo arquivo nas duas branches que estou trabalhando, isso vai causar um conflito
